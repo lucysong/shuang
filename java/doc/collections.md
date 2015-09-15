@@ -65,7 +65,7 @@ Views
   * `Collections.unmodifiableMap`
   * `Collections.unmodifiableSortedMap`
   
-Alogorithms
------------
+Algorithms
+----------
 1. `Collections`
 2. `Arrays`
