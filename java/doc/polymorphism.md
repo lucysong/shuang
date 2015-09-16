@@ -23,7 +23,7 @@ Interface & Abstract Class
 
 Problem
 -------
-Suppose you're making a game, SimCat. The game can show a large variety of cat species running and purring. The cats are wildcat, Garfield, etc.
+Suppose you're making a game, SimCat. The game can show a large variety of cat species running and purring. The cats are wildcat, Garfield, etc.  
 1. create the initial design  
 2. what if adding a new cat, hello kitty which can not run and purr...  
 3. is there any further improvement?
