@@ -1,8 +1,10 @@
 Polymorphism
 ============
 
-Cast
-----
+Polymorphism means ***different forms***.
+
+Casting
+-------
 * upcasting
 * downcasting
 
