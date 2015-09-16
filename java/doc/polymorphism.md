@@ -2,6 +2,7 @@ Polymorphism
 ============
 
 Polymorphism means ***different forms***.
+Polymorphism is good.
 
 Casting
 -------
